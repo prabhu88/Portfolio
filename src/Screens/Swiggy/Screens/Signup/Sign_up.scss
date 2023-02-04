@@ -1,0 +1,134 @@
+.swiggty_LoginS{
+    position:fixed;    
+    background: none;
+    margin: 0;    
+    z-index: 901;
+    height: 100%;
+    width: 84%;
+    overflow-y: hidden;
+    overflow-x: hidden;    
+    display: flex;
+    .LoginL{
+        flex:0.6;    
+        height: 100%;
+        background-color: black;
+        opacity: 0.6; 
+    }
+    .swiggty_login{    
+        flex: 0.4;            
+        height: 100%;    
+        background-color: white;    
+        display: flex;
+        flex-direction: column;
+        .close {
+            margin: 5%;
+        }
+        .swiggty_Header {
+            margin-left: 10px;      
+            height: 15vh;    
+            /* border: 1px solid blue;            */
+            /* flex-direction: row; */
+            /* justify-content: space-between; */
+            display: flex;
+            justify-content: space-between;
+            color: black;
+
+            div {
+                h1 {    
+                    margin :10px;
+                    padding-top: 25px;    
+                    font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;
+                }
+                p{
+                    margin: 10px;
+                    font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;
+                    font-size: 14px;
+                    span{
+                        color: #fc8019;
+                    }
+                }
+            }
+            img {   
+                margin: 10px;    
+                height: 105px;
+                height: 100px;
+            }
+        }       
+        
+        .swiggty_formLogin{
+            display: flex;
+            flex-direction: column;
+            width: 60vh;   
+            div{
+                display: flex;
+                flex-flow: column-reverse;                
+                outline: solid 1px lightgrey;
+                width: 60vh;                 
+                border: 0;
+                label {       
+                    margin-left: 5px;             
+                    z-index: 902;
+                    transition: all 0.2s;
+                    touch-action: manipulation;
+                    letter-spacing: 0.05em;
+                    font-size: 1rem;
+                    font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;   
+                    opacity: 0.6;                 
+                }
+                ::-webkit-input-placeholder{opacity: 0;}
+                ::-moz-placeholder{opacity: 0;}
+                input[type=text]{      
+                    margin-left: 5px;
+                    z-index: 903;
+                    transition: all 0.2s;
+                    touch-action: manipulation;
+                    width: 100%;                   
+                    font-size: 1.5em;
+                    border: 0;
+                    outline: none;
+                    -webkit-appearance: none;
+                    border-radius: 0;
+                    padding: 0;                    
+                    cursor: text;
+                    background: none;
+                    &:not(:focus){
+                        ::-webkit-input-placeholder{opacity: 0;}
+                        ::-moz-placeholder{opacity: 0;}                        
+                    }
+
+                    &:focus {
+                        ::-webkit-input-placeholder{opacity: 1;}
+                        ::-moz-placeholder{opacity: 1;}
+                        outline: 0;
+                        border-bottom: 1px solid #666;
+                    }
+
+                    &:placeholder-shown + label {                        
+                        max-width: 66.66%;
+                        white-space: nowrap;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        transform-origin: left bottom;
+                        transform: translate(0, 2.125rem) scale(1.5);
+                    }
+
+                    &:not(:placeholder-shown) + label,
+                    &:focus+label{
+                        transform: translate(0, 0) scale(1);
+                        cursor: pointer;
+                    }
+                }
+            }
+            .swiggty_btnS{
+                margin-top: 15px;
+                padding: 13px;
+                width: 60vh;                              
+                text-align: center;
+                color: white;
+                background-color: #fc8019;
+                border-radius: 2px;
+                font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;                  
+            }
+        }
+    }
+}

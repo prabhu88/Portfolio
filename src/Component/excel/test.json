@@ -1,0 +1,1754 @@
+{
+  "data": {
+    "itcsumm": {
+      "itcavl": {
+        "othersup": {
+          "sgst": 0,
+          "cgst": 0,
+          "cdnr": {
+            "sgst": 0,
+            "cgst": 0,
+            "cess": 0,
+            "igst": 9.09
+          },
+          "cess": 0,
+          "igst": 9.09
+        },
+        "nonrevsup": {
+          "sgst": 14514.82,
+          "b2b": {
+            "sgst": 14514.82,
+            "cgst": 14514.82,
+            "cess": 0,
+            "igst": 54311.14
+          },
+          "cgst": 14514.82,
+          "cess": 0,
+          "igst": 54311.14
+        }
+      }
+    },
+    "rtnprd": "042021",
+    "docdata": {
+      "b2b": [
+        {
+          "inv": [
+            {
+              "dt": "30-03-2021",
+              "val": 1740.48,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "09-20-03-T002120",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 12,
+                  "num": 1,
+                  "txval": 1554,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 186.48
+                }
+              ]
+            }
+          ],
+          "trdnm": "V TRANS (INDIA) LTD",
+          "supfildt": "13-04-2021",
+          "supprd": "032021",
+          "ctin": "09AAACV1559Q1ZO"
+        },
+        {
+          "inv": [
+            {
+              "dt": "15-04-2021",
+              "val": 1326.84,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "2021433R00000224",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 101.2,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 1124.44,
+                  "cgst": 101.2,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "15-04-2021",
+              "val": 34825.47,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "2021433R00000225",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 2656.18,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 29513.11,
+                  "cgst": 2656.18,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "15-04-2021",
+              "val": 8907.16,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "2021433R00000226",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 679.36,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 7548.44,
+                  "cgst": 679.36,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "30-04-2021",
+              "val": 884.61,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "2021433R00005630",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 67.47,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 749.67,
+                  "cgst": 67.47,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "30-04-2021",
+              "val": 48818.04,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "2021433R00005631",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 3723.41,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 41371.22,
+                  "cgst": 3723.41,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "30-04-2021",
+              "val": 21107.18,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "2021433R00005632",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 1609.87,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 17887.44,
+                  "cgst": 1609.87,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "BLUE DART EXPRESS LIMITED",
+          "supfildt": "11-05-2021",
+          "supprd": "042021",
+          "ctin": "33AAACB0446L1ZZ"
+        },
+        {
+          "inv": [
+            {
+              "dt": "21-04-2021",
+              "val": 1125,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "398",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 85.81,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 953.4,
+                  "cgst": 85.81,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "MARIYAM STORE",
+          "supfildt": "15-05-2021",
+          "supprd": "042021",
+          "ctin": "33AFHPM4268A1ZR"
+        },
+        {
+          "inv": [
+            {
+              "dt": "20-04-2021",
+              "val": 279,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "GTA1781/21-22",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 14.96,
+                  "rt": 12,
+                  "num": 1,
+                  "txval": 249.36,
+                  "cgst": 14.96,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "TAURUS AGENCIES",
+          "supfildt": "24-05-2021",
+          "supprd": "042021",
+          "ctin": "33AABFT4305L1ZC"
+        },
+        {
+          "inv": [
+            {
+              "dt": "30-04-2021",
+              "val": 593.85,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "IN210430V0147498",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 503.26,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 90.59
+                }
+              ]
+            }
+          ],
+          "trdnm": "PayPal Payments Private Limited",
+          "supfildt": "26-05-2021",
+          "supprd": "042021",
+          "ctin": "27AAGCP4442G1ZF"
+        },
+        {
+          "inv": [
+            {
+              "dt": "05-04-2021",
+              "val": 3955.1,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "DR21SIN100002108",
+              "rsn": "",
+              "items": [
+                {
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 3351.78,
+                  "cess": 0,
+                  "igst": 603.32
+                }
+              ]
+            }
+          ],
+          "trdnm": "Exotel Techcom Private Limited",
+          "supfildt": "12-05-2021",
+          "supprd": "042021",
+          "ctin": "29AACCE7697J1ZW"
+        },
+        {
+          "inv": [
+            {
+              "val": 5954.1,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "02817bbb53c39de1c7466d5416d76ba91347e8919883e1063c6c1963a907e5b6",
+              "typ": "R",
+              "irngendate": "01-04-2021",
+              "inum": "CBDYQY49DRJS0321",
+              "rsn": "",
+              "dt": "01-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 5045.85,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 908.25
+                }
+              ]
+            }
+          ],
+          "trdnm": "RAZORPAY SOFTWARE PRIVATE LIMITED",
+          "supfildt": "11-05-2021",
+          "supprd": "042021",
+          "ctin": "29AAGCR4375J1ZU"
+        },
+        {
+          "inv": [
+            {
+              "val": 3971.76,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "3a58772c1b0d8c98958d11ee9487fc7b94c93f632cd3b69dfdc1632a74824340",
+              "typ": "R",
+              "irngendate": "02-05-2021",
+              "inum": "ADS-2122-17700",
+              "rsn": "",
+              "dt": "30-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 3365.9,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 605.86
+                }
+              ]
+            },
+            {
+              "val": 1084.25,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "66a5b24c296a820ddbd5a02e7ef1011e86224d566fb2fb9ee0dac7456f0313fe",
+              "typ": "R",
+              "irngendate": "02-05-2021",
+              "inum": "KA-2122-98803",
+              "rsn": "",
+              "dt": "30-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 918.88,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 165.37
+                }
+              ]
+            }
+          ],
+          "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+          "supfildt": "15-05-2021",
+          "supprd": "042021",
+          "ctin": "29AAICA3918J1ZE"
+        },
+        {
+          "inv": [
+            {
+              "dt": "02-04-2021",
+              "val": 3360,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "13322/0000002059",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 80,
+                  "rt": 5,
+                  "num": 1,
+                  "txval": 3200,
+                  "cgst": 80,
+                  "cess": 0,
+                  "igst": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "SPICEJET LIMITED",
+          "supfildt": "19-05-2021",
+          "supprd": "042021",
+          "ctin": "33AACCR1459F1ZN"
+        },
+        {
+          "inv": [
+            {
+              "dt": "09-04-2021",
+              "val": 352.82,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306426",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 26.91,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 299,
+                  "cgst": 26.91,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "09-04-2021",
+              "val": 352.82,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306460",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 26.91,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 299,
+                  "cgst": 26.91,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "09-04-2021",
+              "val": 470.82,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306491",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 35.91,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 399,
+                  "cgst": 35.91,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "09-04-2021",
+              "val": 470.82,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306526",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 35.91,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 399,
+                  "cgst": 35.91,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "09-04-2021",
+              "val": 588.82,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306527",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 44.91,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 499,
+                  "cgst": 44.91,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "09-04-2021",
+              "val": 588.82,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306528",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 44.91,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 499,
+                  "cgst": 44.91,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "09-04-2021",
+              "val": 474.36,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306568",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 36.18,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 402,
+                  "cgst": 36.18,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "09-04-2021",
+              "val": 588.82,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "BM2233I000306666",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 44.91,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 499,
+                  "cgst": 44.91,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "BHARTI AIRTEL LIMITED",
+          "supfildt": "11-05-2021",
+          "supprd": "042021",
+          "ctin": "33AAACB2894G1ZU"
+        },
+        {
+          "inv": [
+            {
+              "dt": "08-04-2021",
+              "val": 6800,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "7",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 518.64,
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 5762.71,
+                  "cgst": 518.64,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "MADURAI METRIC WORKS",
+          "supfildt": "18-05-2021",
+          "supprd": "042021",
+          "ctin": "33AAIFM1021H1ZU"
+        },
+        {
+          "inv": [
+            {
+              "dt": "30-04-2021",
+              "val": 48.25,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "IDIB2104059191",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 3.68,
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 40.89,
+                  "cgst": 3.68,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "INDIAN BANK",
+          "supfildt": "20-05-2021",
+          "supprd": "042021",
+          "ctin": "33AAACI1607G2Z5"
+        },
+        {
+          "inv": [
+            {
+              "dt": "15-04-2021",
+              "val": 800,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "140",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 19.05,
+                  "rt": 5,
+                  "num": 501,
+                  "txval": 761.9,
+                  "cgst": 19.05,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "26-04-2021",
+              "val": 2079.99,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "219",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 49.52,
+                  "rt": 5,
+                  "num": 501,
+                  "txval": 1980.95,
+                  "cgst": 49.52,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "THILAK AGENCIES",
+          "supfildt": "25-05-2021",
+          "supprd": "042021",
+          "ctin": "33AABFT0341A1Z3"
+        },
+        {
+          "inv": [
+            {
+              "val": 2346.2,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "32842c753f5a7029daa6d3093d4b29ca00a3b6bad8ef902f4808cb77f675ca79",
+              "typ": "R",
+              "irngendate": "04-05-2021",
+              "inum": "7400194177",
+              "rsn": "",
+              "dt": "30-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 1988.3,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 357.9
+                }
+              ]
+            }
+          ],
+          "trdnm": "M/S ONE 97 COMMUNICATION LTD",
+          "supfildt": "20-05-2021",
+          "supprd": "042021",
+          "ctin": "09AAACO4007A1Z3"
+        },
+        {
+          "inv": [
+            {
+              "dt": "30-04-2021",
+              "val": 291,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "20212205020452",
+              "rsn": "",
+              "items": [
+                {
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 247,
+                  "cess": 0,
+                  "igst": 44.46
+                }
+              ]
+            }
+          ],
+          "trdnm": "AVN BUSINESS SOLUTIONS PRIVATE LIMITED",
+          "supfildt": "25-05-2021",
+          "supprd": "042021",
+          "ctin": "27AALCA5307N1ZC"
+        },
+        {
+          "inv": [
+            {
+              "dt": "19-04-2021",
+              "val": 2096,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "124",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 159.84,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 1776,
+                  "cgst": 159.84,
+                  "cess": 0,
+                  "igst": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "INDIAN LIFE LINE  COMPANY",
+          "supfildt": "04-05-2021",
+          "supprd": "042021",
+          "ctin": "33AJJPP4364Q1ZJ"
+        },
+        {
+          "inv": [
+            {
+              "val": 70800,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "bba3b77351502072c83a80464502ff472239e31d11cc89f1464a720d67d7f681",
+              "typ": "R",
+              "irngendate": "16-04-2021",
+              "inum": "ADS626-101380646",
+              "rsn": "",
+              "dt": "05-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 60000,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 10800
+                }
+              ]
+            },
+            {
+              "val": 92785.76,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "dd2e20d49d89642966c9ede52c43065f81f7cdf64b6f7423c22afe9642c031c5",
+              "typ": "R",
+              "irngendate": "17-04-2021",
+              "inum": "ADS626-101395151",
+              "rsn": "",
+              "dt": "15-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 78632,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 14153.76
+                }
+              ]
+            },
+            {
+              "val": 70800,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "26fc3b4bfd2b56ae67dc4ba2a1dcc2940be6dfcd18b0b6ebdcc55f8f03805bc7",
+              "typ": "R",
+              "irngendate": "23-04-2021",
+              "inum": "ADS626-101403587",
+              "rsn": "",
+              "dt": "22-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 60000,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 10800
+                }
+              ]
+            },
+            {
+              "val": 70831.58,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "irn": "d9e543e7f159e9173400cd3ad071e9386ff5817fc01611b38d84818170b2a7e6",
+              "typ": "R",
+              "irngendate": "30-04-2021",
+              "inum": "ADS626-101413518",
+              "rsn": "",
+              "dt": "29-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 60026.76,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 10804.82
+                }
+              ]
+            }
+          ],
+          "trdnm": "FACEBOOK INDIA ONLINE SERVICES PRIVATE LIMITED",
+          "supfildt": "12-05-2021",
+          "supprd": "042021",
+          "ctin": "06AABCF5150G1ZZ"
+        },
+        {
+          "inv": [
+            {
+              "dt": "29-01-2021",
+              "val": 5192,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "2020-21/JAN/038B",
+              "rsn": "",
+              "items": [
+                {
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 4400,
+                  "cess": 0,
+                  "igst": 792
+                }
+              ]
+            }
+          ],
+          "trdnm": "CENTRE FOR PUBLIC HEALTH AND FOOD SAFETY",
+          "supfildt": "16-04-2021",
+          "supprd": "032021",
+          "ctin": "07AACAC6562G1ZT"
+        },
+        {
+          "inv": [
+            {
+              "dt": "09-03-2021",
+              "val": 3145,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "VEM2021-4135",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 74.29,
+                  "rt": 5,
+                  "num": 1,
+                  "txval": 2971.44,
+                  "cgst": 74.29,
+                  "cess": 0
+                },
+                {
+                  "sgst": 1.91,
+                  "rt": 18,
+                  "num": 2,
+                  "txval": 21.19,
+                  "cgst": 1.91,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "10-03-2021",
+              "val": 10605,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "VEM2021-4170",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 776.05,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 8622.81,
+                  "cgst": 776.05,
+                  "cess": 0
+                },
+                {
+                  "sgst": 10.23,
+                  "rt": 5,
+                  "num": 2,
+                  "txval": 409.53,
+                  "cgst": 10.23,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "13-03-2021",
+              "val": 1500,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "VEM2021-4240",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 114.41,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 1271.2,
+                  "cgst": 114.41,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "20-03-2021",
+              "val": 2040,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "VEM2021-4394",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 45.24,
+                  "rt": 5,
+                  "num": 1,
+                  "txval": 1809.5,
+                  "cgst": 45.24,
+                  "cess": 0
+                },
+                {
+                  "sgst": 7.5,
+                  "rt": 12,
+                  "num": 2,
+                  "txval": 125,
+                  "cgst": 7.5,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "26-03-2021",
+              "val": 2325,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "VEM2021-4490",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 55.36,
+                  "rt": 5,
+                  "num": 1,
+                  "txval": 2214.3,
+                  "cgst": 55.36,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "VIVEKA ESSENCE MART",
+          "supfildt": "12-04-2021",
+          "supprd": "032021",
+          "ctin": "33ALVPS4061P5Z4"
+        },
+        {
+          "inv": [
+            {
+              "dt": "10-04-2021",
+              "val": 1994,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "0045",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 152.1,
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 1690,
+                  "cgst": 152.1,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "ANJANA POLYMERS",
+          "supfildt": "19-05-2021",
+          "supprd": "042021",
+          "ctin": "33ABAFA1349M1ZM"
+        },
+        {
+          "inv": [
+            {
+              "dt": "10-04-2021",
+              "val": 319.99,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "189",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 17.14,
+                  "rt": 12,
+                  "num": 1201,
+                  "txval": 285.71,
+                  "cgst": 17.14,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "12-04-2021",
+              "val": 4603.01,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "210",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 109.6,
+                  "rt": 5,
+                  "num": 501,
+                  "txval": 4383.81,
+                  "cgst": 109.6,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "15-04-2021",
+              "val": 7720.02,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "274",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 115.48,
+                  "rt": 5,
+                  "num": 501,
+                  "txval": 4619.06,
+                  "cgst": 115.48,
+                  "cess": 0
+                },
+                {
+                  "sgst": 17.14,
+                  "rt": 12,
+                  "num": 1201,
+                  "txval": 285.72,
+                  "cgst": 17.14,
+                  "cess": 0
+                },
+                {
+                  "sgst": 194.49,
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 2161.02,
+                  "cgst": 194.49,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "26-04-2021",
+              "val": 5159,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "439",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 59.52,
+                  "rt": 5,
+                  "num": 501,
+                  "txval": 2380.95,
+                  "cgst": 59.52,
+                  "cess": 0
+                },
+                {
+                  "sgst": 202.81,
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 2253.39,
+                  "cgst": 202.81,
+                  "cess": 0
+                }
+              ]
+            },
+            {
+              "dt": "30-04-2021",
+              "val": 12877.02,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "510",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 116.67,
+                  "rt": 5,
+                  "num": 501,
+                  "txval": 4666.67,
+                  "cgst": 116.67,
+                  "cess": 0
+                },
+                {
+                  "sgst": 608.42,
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 6760.17,
+                  "cgst": 608.42,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "THILAK TRADERS",
+          "supfildt": "25-05-2021",
+          "supprd": "042021",
+          "ctin": "33AAAFT9693C1Z3"
+        },
+        {
+          "inv": [
+            {
+              "dt": "30-04-2021",
+              "val": 495.6,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "3901315179",
+              "rsn": "",
+              "items": [
+                {
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 420,
+                  "cess": 0,
+                  "igst": 75.6
+                }
+              ]
+            },
+            {
+              "dt": "30-04-2021",
+              "val": 25715.67,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "3905154671",
+              "rsn": "",
+              "items": [
+                {
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 21792.94,
+                  "cess": 0,
+                  "igst": 3922.73
+                }
+              ]
+            }
+          ],
+          "trdnm": "GOOGLE INDIA PVT LTD",
+          "supfildt": "20-05-2021",
+          "supprd": "042021",
+          "ctin": "06AACCG0527D1Z8"
+        },
+        {
+          "inv": [
+            {
+              "dt": "31-03-2021",
+              "val": 24.12,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "IDIB2103098878",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 1.84,
+                  "rt": 18,
+                  "num": 1801,
+                  "txval": 20.44,
+                  "cgst": 1.84,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "INDIAN BANK",
+          "supfildt": "17-04-2021",
+          "supprd": "032021",
+          "ctin": "33AAACI1607G2Z5"
+        },
+        {
+          "inv": [
+            {
+              "dt": "13-03-2021",
+              "val": 1500,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "14709",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 114.41,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 1271.2,
+                  "cgst": 114.41,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "VIVEKA TRADERS",
+          "supfildt": "13-04-2021",
+          "supprd": "032021",
+          "ctin": "33BLWPP1756L1ZD"
+        },
+        {
+          "inv": [
+            {
+              "dt": "09-04-2021",
+              "val": 30887,
+              "rev": "N",
+              "itcavl": "Y",
+              "diffprcnt": 1,
+              "pos": "33",
+              "typ": "R",
+              "inum": "SI23306",
+              "rsn": "",
+              "items": [
+                {
+                  "sgst": 1654.67,
+                  "rt": 12,
+                  "num": 1,
+                  "txval": 27577.8,
+                  "cgst": 1654.67,
+                  "cess": 0
+                }
+              ]
+            }
+          ],
+          "trdnm": "SRI AYYAPPA GHEE STORES",
+          "supfildt": "11-05-2021",
+          "supprd": "042021",
+          "ctin": "33ABBFS4619P1ZU"
+        }
+      ],
+      "cdnr": [
+        {
+          "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+          "supfildt": "15-05-2021",
+          "supprd": "042021",
+          "nt": [
+            {
+              "val": 59.62,
+              "diffprcnt": 1,
+              "itcavl": "Y",
+              "rev": "N",
+              "ntnum": "KA-C-22-87528",
+              "irn": "3fcc0afd231caf4e861ff04358416ef1b563a83c2262a8d26ffef07c87e3292e",
+              "typ": "C",
+              "irngendate": "02-05-2021",
+              "rsn": "",
+              "dt": "30-04-2021",
+              "pos": "33",
+              "srctyp": "E-Invoice",
+              "items": [
+                {
+                  "sgst": 0,
+                  "rt": 18,
+                  "num": 1,
+                  "txval": 50.53,
+                  "cgst": 0,
+                  "cess": 0,
+                  "igst": 9.09
+                }
+              ],
+              "suptyp": "R"
+            }
+          ],
+          "ctin": "29AAICA3918J1ZE"
+        }
+      ]
+    },
+    "gendt": "29-05-2021",
+    "gstin": "33AADCI5738H1ZL",
+    "version": "1.0",
+    "cpsumm": {
+      "b2b": [
+        {
+          "sgst": 0,
+          "ttldocs": 4,
+          "trdnm": "FACEBOOK INDIA ONLINE SERVICES PRIVATE LIMITED",
+          "supprd": "042021",
+          "supfildt": "12-05-2021",
+          "txval": 258658.76,
+          "ctin": "06AABCF5150G1ZZ",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 46558.58
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 2,
+          "trdnm": "GOOGLE INDIA PVT LTD",
+          "supprd": "042021",
+          "supfildt": "20-05-2021",
+          "txval": 22212.94,
+          "ctin": "06AACCG0527D1Z8",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 3998.33
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 1,
+          "trdnm": "CENTRE FOR PUBLIC HEALTH AND FOOD SAFETY",
+          "supprd": "032021",
+          "supfildt": "16-04-2021",
+          "txval": 4400,
+          "ctin": "07AACAC6562G1ZT",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 792
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 1,
+          "trdnm": "M/S ONE 97 COMMUNICATION LTD",
+          "supprd": "042021",
+          "supfildt": "20-05-2021",
+          "txval": 1988.3,
+          "ctin": "09AAACO4007A1Z3",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 357.9
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 1,
+          "trdnm": "V TRANS (INDIA) LTD",
+          "supprd": "032021",
+          "supfildt": "13-04-2021",
+          "txval": 1554,
+          "ctin": "09AAACV1559Q1ZO",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 186.48
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 1,
+          "trdnm": "PayPal Payments Private Limited",
+          "supprd": "042021",
+          "supfildt": "26-05-2021",
+          "txval": 503.26,
+          "ctin": "27AAGCP4442G1ZF",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 90.59
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 1,
+          "trdnm": "AVN BUSINESS SOLUTIONS PRIVATE LIMITED",
+          "supprd": "042021",
+          "supfildt": "25-05-2021",
+          "txval": 247,
+          "ctin": "27AALCA5307N1ZC",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 44.46
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 1,
+          "trdnm": "Exotel Techcom Private Limited",
+          "supprd": "042021",
+          "supfildt": "12-05-2021",
+          "txval": 3351.78,
+          "ctin": "29AACCE7697J1ZW",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 603.32
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 1,
+          "trdnm": "RAZORPAY SOFTWARE PRIVATE LIMITED",
+          "supprd": "042021",
+          "supfildt": "11-05-2021",
+          "txval": 5045.85,
+          "ctin": "29AAGCR4375J1ZU",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 908.25
+        },
+        {
+          "sgst": 0,
+          "ttldocs": 2,
+          "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+          "supprd": "042021",
+          "supfildt": "15-05-2021",
+          "txval": 4284.78,
+          "ctin": "29AAICA3918J1ZE",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 771.23
+        },
+        {
+          "sgst": 8837.49,
+          "ttldocs": 6,
+          "trdnm": "BLUE DART EXPRESS LIMITED",
+          "supprd": "042021",
+          "supfildt": "11-05-2021",
+          "txval": 98194.32,
+          "ctin": "33AAACB0446L1ZZ",
+          "cgst": 8837.49,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 296.55,
+          "ttldocs": 8,
+          "trdnm": "BHARTI AIRTEL LIMITED",
+          "supprd": "042021",
+          "supfildt": "11-05-2021",
+          "txval": 3295,
+          "ctin": "33AAACB2894G1ZU",
+          "cgst": 296.55,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 1.84,
+          "ttldocs": 1,
+          "trdnm": "INDIAN BANK",
+          "supprd": "032021",
+          "supfildt": "17-04-2021",
+          "txval": 20.44,
+          "ctin": "33AAACI1607G2Z5",
+          "cgst": 1.84,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 3.68,
+          "ttldocs": 1,
+          "trdnm": "INDIAN BANK",
+          "supprd": "042021",
+          "supfildt": "20-05-2021",
+          "txval": 40.89,
+          "ctin": "33AAACI1607G2Z5",
+          "cgst": 3.68,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 1441.27,
+          "ttldocs": 5,
+          "trdnm": "THILAK TRADERS",
+          "supprd": "042021",
+          "supfildt": "25-05-2021",
+          "txval": 27796.5,
+          "ctin": "33AAAFT9693C1Z3",
+          "cgst": 1441.27,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 68.57,
+          "ttldocs": 2,
+          "trdnm": "THILAK AGENCIES",
+          "supprd": "042021",
+          "supfildt": "25-05-2021",
+          "txval": 2742.85,
+          "ctin": "33AABFT0341A1Z3",
+          "cgst": 68.57,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 14.96,
+          "ttldocs": 1,
+          "trdnm": "TAURUS AGENCIES",
+          "supprd": "042021",
+          "supfildt": "24-05-2021",
+          "txval": 249.36,
+          "ctin": "33AABFT4305L1ZC",
+          "cgst": 14.96,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 80,
+          "ttldocs": 1,
+          "trdnm": "SPICEJET LIMITED",
+          "supprd": "042021",
+          "supfildt": "19-05-2021",
+          "txval": 3200,
+          "ctin": "33AACCR1459F1ZN",
+          "cgst": 80,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 518.64,
+          "ttldocs": 1,
+          "trdnm": "MADURAI METRIC WORKS",
+          "supprd": "042021",
+          "supfildt": "18-05-2021",
+          "txval": 5762.71,
+          "ctin": "33AAIFM1021H1ZU",
+          "cgst": 518.64,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 152.1,
+          "ttldocs": 1,
+          "trdnm": "ANJANA POLYMERS",
+          "supprd": "042021",
+          "supfildt": "19-05-2021",
+          "txval": 1690,
+          "ctin": "33ABAFA1349M1ZM",
+          "cgst": 152.1,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 1654.67,
+          "ttldocs": 1,
+          "trdnm": "SRI AYYAPPA GHEE STORES",
+          "supprd": "042021",
+          "supfildt": "11-05-2021",
+          "txval": 27577.8,
+          "ctin": "33ABBFS4619P1ZU",
+          "cgst": 1654.67,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 85.81,
+          "ttldocs": 1,
+          "trdnm": "MARIYAM STORE",
+          "supprd": "042021",
+          "supfildt": "15-05-2021",
+          "txval": 953.4,
+          "ctin": "33AFHPM4268A1ZR",
+          "cgst": 85.81,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 159.84,
+          "ttldocs": 1,
+          "trdnm": "INDIAN LIFE LINE  COMPANY",
+          "supprd": "042021",
+          "supfildt": "04-05-2021",
+          "txval": 1776,
+          "ctin": "33AJJPP4364Q1ZJ",
+          "cgst": 159.84,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 1084.99,
+          "ttldocs": 5,
+          "trdnm": "VIVEKA ESSENCE MART",
+          "supprd": "032021",
+          "supfildt": "12-04-2021",
+          "txval": 17444.97,
+          "ctin": "33ALVPS4061P5Z4",
+          "cgst": 1084.99,
+          "cess": 0,
+          "igst": 0
+        },
+        {
+          "sgst": 114.41,
+          "ttldocs": 1,
+          "trdnm": "VIVEKA TRADERS",
+          "supprd": "032021",
+          "supfildt": "13-04-2021",
+          "txval": 1271.2,
+          "ctin": "33BLWPP1756L1ZD",
+          "cgst": 114.41,
+          "cess": 0,
+          "igst": 0
+        }
+      ],
+      "cdnr": [
+        {
+          "sgst": 0,
+          "nttyp": "C",
+          "ttldocs": 1,
+          "trdnm": "AMAZON SELLER SERVICES PVT LTD",
+          "supprd": "042021",
+          "supfildt": "15-05-2021",
+          "txval": 50.53,
+          "ctin": "29AAICA3918J1ZE",
+          "cgst": 0,
+          "cess": 0,
+          "igst": 9.09
+        }
+      ]
+    }
+  },
+  "chksum": "36c1b7bdf4b8a6ca696ed1488cc0284d346d489c3ce62532955203b7b388560f"
+}

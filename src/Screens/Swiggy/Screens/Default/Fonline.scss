@@ -1,0 +1,166 @@
+.swiggty_DefaultFonline{    
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    .swiggty_left{    
+        background-color: white;
+        flex : 0.6;
+        height: 78vh;
+        .swiggty_top_par{
+            display: flex;  
+            justify-content: space-between;  
+            margin-left: 20px;
+            .swiggty_Login_signup {
+                display: flex;
+                margin: 20px;
+                a{
+                    text-decoration: none;
+                }
+
+                .swiggty_loginBtn{
+                    height: 40px;
+                    width: 110px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    color: black;
+                }
+                
+                .swiggty_loginBtn:hover{
+                    color: red;
+                }
+                
+                .swiggty_signupBtn{
+                    background-color: black;
+                    color: white;
+                    height: 40px;
+                    width: 110px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+            }
+
+            
+        }
+
+        .swiggty_content{
+            .swiggty_Heading{
+                margin-top: 20px;
+                margin-left: 35px;    
+                color: #282c3f;
+                font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;
+                font-weight: 300;
+            }
+            
+            .swiggty_secHeading{
+                margin-top: 10px;
+                margin-left: 35px;
+                color: #cb9478;
+                font-size: 1.6rem;
+            }
+
+            .swiggty_searchForm{
+                .form{
+                    flex: 0.6;
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0.1rem;
+                    margin: 0 1rem;
+                    border-radius: 3px;
+                    // border: 1.2px solid;
+                    
+                    .swiggty_inputContainer{
+                        width: 90vh;        
+                        display: flex;                
+                        flex-direction: row;
+                        margin-top: 30px;
+                        margin-left: 20px;
+                        .input{    
+                            flex: 8;
+                            padding: 10px;
+                            border: solid 1px yellowgreen;  
+                            font-size: 18px;
+                            
+                        }
+
+                        .input:focus{
+                            outline: yellowgreen solid 1px;
+                        }
+
+                        .swiggty_Location{
+                            display: inline-flex;
+                            position: relative;        
+                            background: none;                               
+                            margin-left: -100px;                                                                               
+                            align-items: center;
+                            justify-content: space-between;
+                        }
+
+                        .swiggty_searchBtn{                            
+                            background-color: #fc8019;
+                            margin-left: 13px;
+                            font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;
+                            font-size: 1rem;                            
+                            font-weight: bold;
+                            color: white;
+                            border: none;                                                    
+                            border: solid 1px yellowgreen;
+                            padding: 15px;
+                            // display: flex;
+                            // flex-direction: row;
+                            // justify-content: center;
+                        }
+                    }
+
+                    .swiggy_locError{                        
+                        width: 90vh; 
+                        background-color: #fa4a5b;
+                        margin-left: 20px;
+                        font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;
+                        font-weight: bold;
+                        font-size: 0.8rem;
+                        padding: 10px;
+                        color: white;
+                    }
+                }
+            }
+
+            .swiggty_text_uSearch{
+                margin-top: 30px;
+                margin-left: 20px;
+                font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;    
+                .swiggty_p_underSearch{
+                    color: #a9abb2;
+                    font-size: 1rem;
+                    // font-weight: bold;
+                    margin: 10px;
+                    padding: 5px;
+                }
+                
+                .swiggty_p_underSearch1{
+                    // margin: 10px;
+                    //padding: 5px;
+                    font-family: ProximaNova, Arial, "Helvetica Neue", sans-serif;    
+                    
+                }
+            }
+        }
+
+
+    }
+
+    .swiggty_right{    
+        background-color: wheat;
+        flex : 0.4;
+        background-image: url("https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch3-new_mkqxdb");
+        background-size: contain;
+        height: 78vh;
+        img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    }
+}
+
+
